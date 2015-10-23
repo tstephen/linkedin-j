@@ -4,6 +4,7 @@
     <groupId>com.googlecode.linkedin-j</groupId>
     <artifactId>linkedin-j</artifactId>
     <version>1.0.417-SNAPSHOT</version>
+    <relativePath>..</relativePath>
   </parent>
   <artifactId>linkedin-j-core</artifactId>
   <packaging>jar</packaging>
